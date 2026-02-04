@@ -1,4 +1,10 @@
-<!-- HERO SECTION -->
+<!-- ================= HERO BANNER ================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sundus%20Ardian&fontAlign=50&fontAlignY=40&color=0:0ea5e9,100:2563eb&fontSize=45&animation=fadeIn" />
+</p>
+
+<!-- ================= AVATAR ================= -->
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/83276960?v=4"
@@ -6,75 +12,90 @@
        style="border-radius:50%;" />
 </p>
 
-<h1 align="center">Sundus Ardian</h1>
+<h3 align="center">
+Fullstack Developer • SaaS Builder • System Thinker
+</h3>
 
 <p align="center">
-  <b>Fullstack Developer • SaaS Builder • System Thinker</b>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=500&lines=Building+Useful+Products;Fullstack+JavaScript+Engineer;SaaS+%7C+Property+Tech+%7C+Automation;Always+Learning+Something+New" />
-</p>
-
----
-
-## ⚡ Tech Arsenal
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,go,fastapi" /><br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma,supabase,docker" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Useful+Digital+Products;Fullstack+JavaScript+Engineer;Property+Tech+%7C+SaaS+%7C+Automation;Obsessed+With+Clean+Architecture" />
 </p>
 
 ---
 
-## 🚀 Highlight Products
+<!-- ================= GLASS DIVIDER ================= -->
+
+<p align="center">
+  <img width="80%" src="https://svg-banners.vercel.app/api?type=glitch&text1=Tech%20Stack&width=800&height=60" />
+</p>
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,remix,ts,nodejs,go,fastapi" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma,supabase,docker,git" />
+
+</p>
+
+---
+
+## 🚀 Products & Systems
 
 ### 🏢 Property Management Ecosystem
-- Multi role system (Admin, Engineer, Security, Tenant)
-- Finance + Tenancy + Parking + Billing
-- Mobile + Web platform
-- Designed for 300+ units scale
-
-### 🧺 Laundry POS SaaS
-- Business owner dashboard
-- Operational + transaction monitoring
-- Multi outlet ready architecture
+✔ Multi Role Access (Admin, Engineer, Security, Tenant)  
+✔ Finance + Tenancy + Billing + Parking  
+✔ Mobile + Web Platform  
+✔ Designed for 300+ Unit Scale  
 
 ---
 
-## 📊 Dev Stats
+### 🧺 Laundry POS SaaS
+✔ Owner Dashboard  
+✔ Transaction + Ops Monitoring  
+✔ Multi Outlet Ready  
+✔ SaaS Multi Tenant Architecture  
+
+---
+
+<!-- ================= STATS ================= -->
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+---
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- ================= ACTIVITY GRAPH ================= -->
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 ## 🌱 Current Focus
 
-- System Design & Scalable Architecture  
-- Product Thinking → System Analyst Path  
-- Chinese Language Learning  
-- Interview English Practice  
+🧠 System Design & Scalable Architecture  
+📊 Product Thinking → System Analyst Path  
+🇨🇳 Learning Chinese  
+🇬🇧 Interview English Training  
 
 ---
 
-## 🤝 Let's Build Something
+<!-- ================= TROPHIES ================= -->
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
+<!-- ================= FOOTER WAVE ================= -->
+
 <p align="center">
-  <i>Build useful things. Make life easier. Repeat.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,100:2563eb" />
 </p>
