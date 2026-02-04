@@ -37,20 +37,6 @@
 
 ---
 
-## 📦 Highlight Projects
-
-### 🏢 Property Management System
-- Multi-role system (Admin, Engineer, Security, Tenant)
-- Finance & Tenancy Management
-- Mobile + Web Ecosystem
-- Designed for 300+ unit properties
-
-### 🧺 Laundry POS SaaS
-- Owner dashboard
-- Transaction & operational tracking
-- Scalable SaaS architecture
-
----
 
 ## 📊 GitHub Stats
 
