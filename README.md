@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/83276960?v=4"
+       width="180"
+       height="180"
+       style="border-radius:50%;" />
+</p>
+
 # 👋 Hey, I'm Sundus
 
 🚀 **Fullstack Developer | Problem Solver | Builder Mindset**
