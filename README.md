@@ -1,73 +1,80 @@
+<!-- HERO SECTION -->
+
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/83276960?v=4"
-       width="180"
-       height="180"
+       width="160"
        style="border-radius:50%;" />
 </p>
 
-# 👋 Hey, I'm Sundus
+<h1 align="center">Sundus Ardian</h1>
 
-🚀 **Fullstack Developer | Problem Solver | Builder Mindset**
+<p align="center">
+  <b>Fullstack Developer • SaaS Builder • System Thinker</b>
+</p>
 
----
-
-## 🧠 About Me
-
-- 💻 Fullstack Web Developer (3+ years experience)  
-- ⚛️ Frontend focus with **React / Next.js / Remix**  
-- 🧩 Backend with **Node.js, TypeScript, Go, FastAPI**  
-- 🗄️ Databases: **MySQL, PostgreSQL, MongoDB**  
-- 🏗️ Currently building **SaaS & Property Management Systems**  
-- 🌏 Targeting career growth & opportunities in **Singapore**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=500&lines=Building+Useful+Products;Fullstack+JavaScript+Engineer;SaaS+%7C+Property+Tech+%7C+Automation;Always+Learning+Something+New" />
+</p>
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Arsenal
 
-### 🖥️ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Remix](https://img.shields.io/badge/Remix-121212?style=for-the-badge&logo=remix)
+<p align="center">
 
-### 🛠 Backend
-![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,go,fastapi" /><br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma,supabase,docker" />
 
-### 🗄 Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+</p>
 
 ---
 
+## 🚀 Highlight Products
 
-## 📊 GitHub Stats
+### 🏢 Property Management Ecosystem
+- Multi role system (Admin, Engineer, Security, Tenant)
+- Finance + Tenancy + Parking + Billing
+- Mobile + Web platform
+- Designed for 300+ units scale
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
-## 🌱 Currently Learning
-
-- System Design & Architecture  
-- Product Thinking (System Analyst path)  
-- Chinese Language 🇨🇳  
-- Interview English Practice 🇬🇧  
+### 🧺 Laundry POS SaaS
+- Business owner dashboard
+- Operational + transaction monitoring
+- Multi outlet ready architecture
 
 ---
 
-## 🤝 Let's Connect
+## 📊 Dev Stats
 
-- 💼 Open for collaboration  
-- 🧠 Always interested in building useful SaaS  
-- ☕ Coffee chat always welcome  
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
 
 ---
 
-> *"Build useful things. Make life easier. Repeat."*
+## 🌱 Current Focus
+
+- System Design & Scalable Architecture  
+- Product Thinking → System Analyst Path  
+- Chinese Language Learning  
+- Interview English Practice  
+
+---
+
+## 🤝 Let's Build Something
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
+
+</p>
+
+---
+
+<p align="center">
+  <i>Build useful things. Make life easier. Repeat.</i>
+</p>
